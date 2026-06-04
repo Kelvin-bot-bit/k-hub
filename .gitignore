@@ -1,0 +1,164 @@
+# ============================================================
+# OS generated files
+# ============================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================================
+# Editor / IDE files
+# ============================================================
+# VS Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+*.atom
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# WebStorm / JetBrains
+.idea/
+*.iml
+*.iws
+out/
+
+# ============================================================
+# Environment variables (sensitive data)
+# ============================================================
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+*.env
+
+# ============================================================
+# Node.js / npm (if you ever add any build tools)
+# ============================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnpm-debug.log*
+
+# ============================================================
+# Cache / Temporary files
+# ============================================================
+*.cache
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+.cache/
+.tmp/
+.temp/
+
+# ============================================================
+# Build output
+# ============================================================
+dist/
+build/
+out/
+release/
+
+# ============================================================
+# Local configuration files
+# ============================================================
+config.local.js
+config.local.css
+local-settings.json
+
+# ============================================================
+# Personal / Sensitive files
+# ============================================================
+CV/Resume (uncomment if you don't want to share in repo)
+ assets/*.pdf
+ *.pdf
+
+# Notes / TODO files (optional)
+*.md.bak
+TODO.md.bak
+NOTES.md
+
+# ============================================================
+# Testing
+# ============================================================
+test/
+tests/
+*.test.html
+*.spec.js
+coverage/
+
+# ============================================================
+# Large media files (optional - keep repo size small)
+# ============================================================
+# Uncomment if you have large images/videos
+# *.psd
+# *.ai
+# *.eps
+# *.mp4
+# *.mov
+# *.avi
+# *.wmv
+# *.zip
+# *.rar
+# *.7z
+# *.tar.gz
+# *.iso
+
+# Original/uncompressed images
+# imgs/original/
+# imgs/raw/
+
+# ============================================================
+# Deployment related
+# ============================================================
+.netlify/
+.vercel/
+.hosting/
+.firebase/
+.s3config/
+
+# ============================================================
+# FTP / Sync configs
+# ============================================================
+sftp-config.json
+.ftpconfig
+.remote-sync.json
+.ftppass
+
+# ============================================================
+# Misc
+# ============================================================
+*.sass-cache/
+*.scssc
+*.min.css
+*.min.js
