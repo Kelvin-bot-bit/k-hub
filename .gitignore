@@ -104,6 +104,7 @@ local-settings.json
  *.pdf
  *resume*.pdf
  *CV*.pdf
+ imgs
 
 # Notes / TODO files (optional)
 *.md.bak
