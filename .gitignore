@@ -99,9 +99,11 @@ local-settings.json
 # ============================================================
 # Personal / Sensitive files
 # ============================================================
-CV/Resume (uncomment if you don't want to share in repo)
+ CV/Resume (uncomment if you don't want to share in repo)
  assets/*.pdf
  *.pdf
+ *resume*.pdf
+ *CV*.pdf
 
 # Notes / TODO files (optional)
 *.md.bak
@@ -121,22 +123,22 @@ coverage/
 # Large media files (optional - keep repo size small)
 # ============================================================
 # Uncomment if you have large images/videos
-# *.psd
-# *.ai
-# *.eps
-# *.mp4
-# *.mov
-# *.avi
-# *.wmv
-# *.zip
-# *.rar
-# *.7z
-# *.tar.gz
-# *.iso
+ *.psd
+ *.ai
+ *.eps
+ *.mp4
+ *.mov
+ *.avi
+ *.wmv
+ *.zip
+ *.rar
+ *.7z
+ *.tar.gz
+ *.iso
 
-# Original/uncompressed images
-# imgs/original/
-# imgs/raw/
+ Original/uncompressed images
+ imgs/original/
+ imgs/raw/
 
 # ============================================================
 # Deployment related
